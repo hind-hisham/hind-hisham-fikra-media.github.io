@@ -14,7 +14,7 @@
 
 ### Demo Screeshots
 
-![fikra Desktop Demo](./desktop.png "Desktop Demo")
+![fikra Desktop Demo](./pro2.png")
 
 ### Prerequisites
 
