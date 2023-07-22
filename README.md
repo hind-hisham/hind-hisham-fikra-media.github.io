@@ -1,12 +1,12 @@
-# fikra-media
+
 <div align="center">
   <br />
-
+# fikra-media
   <h2 align="center">Fikra Media Website</h2>
 
   EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://hind-hisham-fikra-media.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href=" https://hind-hisham.github.io/hind-hisham-fikra-media.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **EduWeb** locally, run this command on your git bash:
+To run this web page locally, run this command on your git bash:
 
 Linux and macOS:
 
