@@ -38,7 +38,7 @@ git clone https://github.com/hind-hisham/hind-hisham-fikra-media.github.io.git
 
 ### Contact
 <div>
-  <p>If you want to contact with me Don't feel shy, visit me on my website</p>
-  <a href="https://hind-react-portfolio.pages.dev/" style='backround:#333;padding:10px;'>visit my website</a>
+  <span>If you want to contact with me Don't feel shy, visit me on my website</span>
+  <a href="https://hind-react-portfolio.pages.dev/" target="_blank">visit my website</a>
 </div>
 
