@@ -2,7 +2,7 @@
 <div align="center">
   <br />
   <h2 align="center">Fikra Media Website</h2>
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+   Fikra Media is a landing page Based on mouse scrolling <br /> build using HTML, CSS, and JavaScript.
 
   <a href="https://hind-hisham.github.io/hind-hisham-fikra-media.github.io"><strong>➥ Live Demo</strong></a>
 
@@ -27,15 +27,15 @@ To run this web page locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
+sudo git clone https://github.com/hind-hisham/hind-hisham-fikra-media.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/eduweb.git
+git clone https://github.com/hind-hisham/hind-hisham-fikra-media.github.io.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can Visit me in my website [hind portfolio](https://hind-react-portfolio.pages.dev/)
