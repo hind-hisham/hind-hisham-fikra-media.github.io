@@ -4,7 +4,7 @@
   <h2 align="center">Fikra Media Website</h2>
    Fikra Media is a landing page Based on mouse scrolling <br /> build using HTML, CSS, and JavaScript.
 
-  <a href="https://hind-hisham.github.io/hind-hisham-fikra-media.github.io"><strong>➥ Live Demo</strong></a>
+  <a href="https://hind-hisham.github.io/hind-hisham-fikra-media.github.io" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -37,5 +37,8 @@ git clone https://github.com/hind-hisham/hind-hisham-fikra-media.github.io.git
 ```
 
 ### Contact
+<div>
+  <p>If you want to contact with me Don't feel shy, visit me on my website</p>
+  <a href="https://hind-react-portfolio.pages.dev/" style='backround:#333;padding:10px;'>visit my website</a>
+</div>
 
-If you want to contact with me you can Visit me in my website [hind portfolio](https://hind-react-portfolio.pages.dev/)
