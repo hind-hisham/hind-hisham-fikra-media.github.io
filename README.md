@@ -1,12 +1,10 @@
 
 <div align="center">
   <br />
-# fikra-media
   <h2 align="center">Fikra Media Website</h2>
-
   EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=" https://hind-hisham.github.io/hind-hisham-fikra-media.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href="https://hind-hisham.github.io/hind-hisham-fikra-media.github.io"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -14,7 +12,7 @@
 
 ### Demo Screeshots
 
-![fikra Desktop Demo](./pro2.png")
+![fikra Desktop Demo](https://github.com/hind-hisham/hind-hisham-fikra-media.github.io/blob/main/pro2.png)
 
 ### Prerequisites
 
